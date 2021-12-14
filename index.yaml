@@ -3,7 +3,17 @@ entries:
   install-upgrade-rlbk-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-14T22:20:44.159598972Z"
+    created: "2021-12-14T22:46:04.450257868Z"
+    description: A Helm chart for Kubernetes
+    digest: b59dc7edc1ac218ac614f0a950dc0b6df7cb236d204b469418fe8916cee2c0b0
+    name: install-upgrade-rlbk-demo
+    type: application
+    urls:
+    - install-upgrade-rlbk-demo-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-14T22:46:04.44967648Z"
     description: A Helm chart for Kubernetes
     digest: ea63f1ec3d25e62736180ce20de5bdf662786b7111ef22da5073421c1b32b761
     name: install-upgrade-rlbk-demo
@@ -11,4 +21,4 @@ entries:
     urls:
     - install-upgrade-rlbk-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-14T22:20:44.158755557Z"
+generated: "2021-12-14T22:46:04.448927968Z"
